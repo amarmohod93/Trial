@@ -1,2 +1,2 @@
 print "Hello-World"
-print "Comme"
+print "Comment"
